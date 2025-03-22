@@ -1,21 +1,16 @@
-# Hewoo :
+# Hi, I'm Lutfil, a software dev
+* 📌 Singapore
+* Coding since 2020 (11 Yo)
 
-## spam me on
-* [Discord](https://discord.com/users/635303930879803412)
+# Projects: 
+* [RuruTBL](https://github.com/LuluHuman/rurutbl-react)
+  * A React website with Glancable schedules 
+* [Senko Helper](https://github.com/LuluHuman/Senko-Helper)
+  * A Expo app with A SG bus arrval (Using [Datamall API](https://datamall.lta.gov.sg/), RuruTBL port and SG Prayer times displayer (Using [MUIS Api](https://www.muis.gov.sg/)
 
-## Current Project
-RuruTbl: https://github.com/rurutbl</br>
-Packages Used:  
-* JS
-  * NextJS
-  * ExpressJS
-* Python
-  * pdf2image
-  * Pillow
-  * pytesseract
+# Contact:
+* [Discord](https://discord.com/users/6353039308)
 
-# Stats that no one reads
-
-[![LuluHuman](https://github-readme-stats.vercel.app/api?username=LuluHuman&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+***
 
 ![LuluHuman](https://github-readme-stats.vercel.app/api/top-langs?username=LuluHuman&show_icons=true&theme=synthwave&layout=compact)
